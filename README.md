@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @adwaithkm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @aktech6
+- 👀 I’m interested in providing more education
+- 🌱 I’m currently learning the passion of youtube
+- 💞️ I’m looking to collaborate on youtube
+- 📫 How to reach me on youtube ,search  ,@aktech6
 
 <!---
 adwaithkm/adwaithkm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
